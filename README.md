@@ -1,1 +1,1 @@
-# Personal portfolio of Mech Frazier. Built with GitHub Pages.
+Personal portfolio of Mech Frazier. Built with GitHub Pages.
